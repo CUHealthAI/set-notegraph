@@ -1,0 +1,20 @@
+<h1 id="cu-boulder-summit"><a aria-hidden="true" class="anchor-heading" href="#cu-boulder-summit"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>CU Boulder Summit</h1>
+<h2 id="summary"><a aria-hidden="true" class="anchor-heading" href="#summary"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Summary</h2>
+<p>Research Computing (RC) through the University of Colorado Boulder (CU Boulder) provides a supercomputer resource called <strong>Summit</strong>. For more information see the following webpage: <a href="https://colorado.edu/rc/resources/summit">https://colorado.edu/rc/resources/summit</a>.</p>
+<h2 id="cu-anschutz-access"><a aria-hidden="true" class="anchor-heading" href="#cu-anschutz-access"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>CU Anschutz Access</h2>
+<p>Those with University of Colorado Anschutz (CU Anschutz) may access the Summit supercomputing resource using an <a href="https://portal.xsede.org/">XSEDE account</a> and configuration help from RC at UCB via the following email: <a href="mailto:rc-help@colorado.edu">rc-help@colorado.edu</a>.</p>
+<p>Use the following guide for more information:
+<a href="https://curc.readthedocs.io/en/latest/access/rmacc.html">https://curc.readthedocs.io/en/latest/access/rmacc.html</a></p>
+<p>Generally, the access sequence is as follows:</p>
+<div class="mermaid">
+  sequenceDiagram
+    autonumber
+    CU Anschutz Requester ->> portal.xsede.org: Create account
+    portal.xsede.org-->>CU Anschutz Requester: Ask for Account Validation
+    CU Anschutz Requester ->> portal.xsede.org: Validate Account
+    CU Anschutz Requester ->> portal.xsede.org: Configure DUO MFA with XSEDE Acct.
+    CU Anschutz Requester ->> rc-help@colorado.edu: Request RMACC Summit Authorization with XSEDE Username
+    rc-help@colorado.edu -->> CU Anschutz Requester: Authorize RMACC Summit Access
+    CU Anschutz Requester ->> login.xsede.org: local $ ssh -l &#x3C;username> login.xsede.org
+    CU Anschutz Requester ->> Summit: xsede $ gsissh rmacc-summit
+</div>

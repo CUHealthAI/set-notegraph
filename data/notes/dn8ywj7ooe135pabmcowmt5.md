@@ -1,0 +1,12 @@
+
+Diagramming can be a useful way to illustrate ideas for yourself or others. Sharing a few tools to this effect below (in no particular order).
+
+- Code-based: generate diagrams using coded dialects
+  - [PlantUML](https://plantuml.com/)
+  - [Mermaid](https://mermaid-js.github.io/mermaid/#/)
+  - [yUML](https://github.com/jaime-olivares/yuml-diagram/wiki)
+- Free-form
+  - [Excalidraw](https://excalidraw.com/)
+  - [Diagrams.net](https://www.diagrams.net/)
+- Aggregate/Mixed:
+  - [Kroki](https://kroki.io/)

@@ -1,0 +1,397 @@
+{
+  "roots": [
+    {
+      "key": "ar4f3o70zlm93rwlaw6ffog",
+      "title": "Home",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "0lzc0dvuck7s5d6wbu012jz",
+          "title": "Admin",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "2zxhjtowvby865y7cpeeef6",
+              "title": "Email Signature",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "kkf8lxkcchfmlebdizcxrd2",
+              "title": "Onboading",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "qiw43al18pmvgl9nu2wan56",
+                  "title": "Checklist",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "t4lf8cc2kvpzurjwl6pnuju",
+          "title": "Apps",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "3siin7c7fy1pafx030cic2n",
+              "title": "Mondaydotcom",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "xk8t3c1li66ztgrr8umm4pq",
+                  "title": "Sketch",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "5v96sd8ll7el90tbxx7qj64",
+                      "title": "Work Visibility Reports",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "lu1kpevz2ad8zqmizeayr9n",
+              "title": "Smartsheet",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "ck9jpt3ky6w69ndczu73c4b",
+          "title": "Resources",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "0hxqztfww3q0huhellcm2ej",
+              "title": "Compute",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "jfts4cigy6lsskwk1ps5at3",
+                  "title": "CU Boulder Summit",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "5tmv1gfg7n3iyvzssedcwkk",
+          "title": "Tools",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "hnfc8xbdknd6ezxui8yf93c",
+              "title": "Build",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "79wfvfi51lhf7b0d8z6cbft",
+                  "title": "Dagger",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "mebo859qf267oa37xdjloom",
+                      "title": "Buildkit and Podman",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "8xtpfpwacou8xzvp2rlny6p",
+                      "title": "Presentation 2022 07 07",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "a2269yazf508qo286jpiduz",
+                      "title": "Project Init",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "01fuf350rxubv2fknt2sple",
+                  "title": "Python",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "ra5std7l9u4k030phf599ko",
+                      "title": "Environment",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "dn8ywj7ooe135pabmcowmt5",
+              "title": "Diagrams",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "976ou2kq0u6i7pvezcsjrnx",
+              "title": "Docs",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "s51up9coqoq1n1d3mcmwkbu",
+                  "title": "Dendron",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "55uhtybzlvjyf52nss8mn0f",
+                      "title": "Create Note from Jupyter Notebook",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "ja5pjbw0xl6wz9xwthztups",
+              "title": "K8s",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "l1pa3h6amzhd5d46lv732h6",
+                  "title": "Knative",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "6kp5i2u5lx4huw8m599c3ld",
+                      "title": "Install",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "s9eb68fqagvu6t1p3g3gb27",
+              "title": "Linting",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "y50ij6pqcavxu8o834o4bgy",
+                  "title": "Documentation",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "ycnfojglpo1lm46xwxn7zph",
+                  "title": "Python",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "xj0eselt2cf2kyx4zn74dhr",
+              "title": "Testing",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "hk2yakbkecoyip1jv0khmip",
+                  "title": "Python",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "9nphhg89vc67zg5yyjzlrq6",
+              "title": "Workflow",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "x1aam73xub7abcc1stkjkp6",
+          "title": "Training",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "ezcpba2ntn7yg26eumsvxlp",
+              "title": "Google",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "tnt03zf4re4d2cehjw6ds9k",
+                  "title": "Digital Leader",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "ar4f3o70zlm93rwlaw6ffog": null,
+    "x1aam73xub7abcc1stkjkp6": "ar4f3o70zlm93rwlaw6ffog",
+    "ezcpba2ntn7yg26eumsvxlp": "x1aam73xub7abcc1stkjkp6",
+    "tnt03zf4re4d2cehjw6ds9k": "ezcpba2ntn7yg26eumsvxlp",
+    "ck9jpt3ky6w69ndczu73c4b": "ar4f3o70zlm93rwlaw6ffog",
+    "0hxqztfww3q0huhellcm2ej": "ck9jpt3ky6w69ndczu73c4b",
+    "jfts4cigy6lsskwk1ps5at3": "0hxqztfww3q0huhellcm2ej",
+    "5tmv1gfg7n3iyvzssedcwkk": "ar4f3o70zlm93rwlaw6ffog",
+    "976ou2kq0u6i7pvezcsjrnx": "5tmv1gfg7n3iyvzssedcwkk",
+    "s51up9coqoq1n1d3mcmwkbu": "976ou2kq0u6i7pvezcsjrnx",
+    "55uhtybzlvjyf52nss8mn0f": "s51up9coqoq1n1d3mcmwkbu",
+    "xj0eselt2cf2kyx4zn74dhr": "5tmv1gfg7n3iyvzssedcwkk",
+    "hk2yakbkecoyip1jv0khmip": "xj0eselt2cf2kyx4zn74dhr",
+    "s9eb68fqagvu6t1p3g3gb27": "5tmv1gfg7n3iyvzssedcwkk",
+    "ycnfojglpo1lm46xwxn7zph": "s9eb68fqagvu6t1p3g3gb27",
+    "y50ij6pqcavxu8o834o4bgy": "s9eb68fqagvu6t1p3g3gb27",
+    "hnfc8xbdknd6ezxui8yf93c": "5tmv1gfg7n3iyvzssedcwkk",
+    "01fuf350rxubv2fknt2sple": "hnfc8xbdknd6ezxui8yf93c",
+    "ra5std7l9u4k030phf599ko": "01fuf350rxubv2fknt2sple",
+    "79wfvfi51lhf7b0d8z6cbft": "hnfc8xbdknd6ezxui8yf93c",
+    "a2269yazf508qo286jpiduz": "79wfvfi51lhf7b0d8z6cbft",
+    "8xtpfpwacou8xzvp2rlny6p": "79wfvfi51lhf7b0d8z6cbft",
+    "mebo859qf267oa37xdjloom": "79wfvfi51lhf7b0d8z6cbft",
+    "9nphhg89vc67zg5yyjzlrq6": "5tmv1gfg7n3iyvzssedcwkk",
+    "ja5pjbw0xl6wz9xwthztups": "5tmv1gfg7n3iyvzssedcwkk",
+    "l1pa3h6amzhd5d46lv732h6": "ja5pjbw0xl6wz9xwthztups",
+    "6kp5i2u5lx4huw8m599c3ld": "l1pa3h6amzhd5d46lv732h6",
+    "dn8ywj7ooe135pabmcowmt5": "5tmv1gfg7n3iyvzssedcwkk",
+    "t4lf8cc2kvpzurjwl6pnuju": "ar4f3o70zlm93rwlaw6ffog",
+    "3siin7c7fy1pafx030cic2n": "t4lf8cc2kvpzurjwl6pnuju",
+    "xk8t3c1li66ztgrr8umm4pq": "3siin7c7fy1pafx030cic2n",
+    "5v96sd8ll7el90tbxx7qj64": "xk8t3c1li66ztgrr8umm4pq",
+    "lu1kpevz2ad8zqmizeayr9n": "t4lf8cc2kvpzurjwl6pnuju",
+    "0lzc0dvuck7s5d6wbu012jz": "ar4f3o70zlm93rwlaw6ffog",
+    "kkf8lxkcchfmlebdizcxrd2": "0lzc0dvuck7s5d6wbu012jz",
+    "qiw43al18pmvgl9nu2wan56": "kkf8lxkcchfmlebdizcxrd2",
+    "2zxhjtowvby865y7cpeeef6": "0lzc0dvuck7s5d6wbu012jz"
+  }
+}
